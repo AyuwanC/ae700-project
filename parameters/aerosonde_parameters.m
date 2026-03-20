@@ -2,8 +2,8 @@
 % Aircraft: North American X-15
 % All field names match the senior's forces_moments.m and mav_dynamics.m exactly.
 
-addpath('../tools');
-
+% addpath('../tools');
+% 
 % -------------------------------------------------------------------------
 % Initial conditions
 % -------------------------------------------------------------------------
